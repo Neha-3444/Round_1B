@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-27T14:47:14.300665"
+    },
+    "extracted_sections": [
+        {
+            "document": "documents\\The Ultimate PDF Sharing Checklist.pdf",
+            "section_title": "The Ultimate PDF Sharing Checklist",
+            "importance_rank": 1,
+            "page_number": 1
+        },
+        {
+            "document": "documents\\Learn Acrobat - Share_1.pdf",
+            "section_title": "Learn Acrobat - Share_1",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "documents\\Learn Acrobat - Share_2.pdf",
+            "section_title": "Learn Acrobat - Share_2",
+            "importance_rank": 3,
+            "page_number": 1
+        },
+        {
+            "document": "documents\\Learn Acrobat - Export_1.pdf",
+            "section_title": "Learn Acrobat - Export_1",
+            "importance_rank": 4,
+            "page_number": 1
+        },
+        {
+            "document": "documents\\The Ultimate PDF Sharing Checklist.pdf",
+            "section_title": "onboarding and compliance tasks.",
+            "importance_rank": 5,
+            "page_number": 2
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "documents\\The Ultimate PDF Sharing Checklist.pdf",
+            "refined_text": "The Ultimate PDF Sharing Checklist\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 1. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 2. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 3. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 4. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 5. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 6. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 7. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 8. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 9. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 10. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 11. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 12. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 13. Forms are useful for",
+            "page_number": 1
+        },
+        {
+            "document": "documents\\Learn Acrobat - Share_1.pdf",
+            "refined_text": "Learn Acrobat - Share_1\nThis is sample content for Learn Acrobat - Share_1. Line 1. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_1. Line 2. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_1. Line 3. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_1. Line 4. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_1. Line 5. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_1. Line 6. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_1. Line 7. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_1. Line 8. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_1. Line 9. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_1. Line 10. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_1. Line 11. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_1. Line 12. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_1. Line 13. Forms are useful for onboarding and",
+            "page_number": 1
+        },
+        {
+            "document": "documents\\Learn Acrobat - Share_2.pdf",
+            "refined_text": "Learn Acrobat - Share_2\nThis is sample content for Learn Acrobat - Share_2. Line 1. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_2. Line 2. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_2. Line 3. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_2. Line 4. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_2. Line 5. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_2. Line 6. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_2. Line 7. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_2. Line 8. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_2. Line 9. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_2. Line 10. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_2. Line 11. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_2. Line 12. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Share_2. Line 13. Forms are useful for onboarding and",
+            "page_number": 1
+        },
+        {
+            "document": "documents\\Learn Acrobat - Export_1.pdf",
+            "refined_text": "Learn Acrobat - Export_1\nThis is sample content for Learn Acrobat - Export_1. Line 1. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Export_1. Line 2. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Export_1. Line 3. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Export_1. Line 4. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Export_1. Line 5. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Export_1. Line 6. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Export_1. Line 7. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Export_1. Line 8. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Export_1. Line 9. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Export_1. Line 10. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Export_1. Line 11. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Export_1. Line 12. Forms are useful for onboarding and\ncompliance tasks.\nThis is sample content for Learn Acrobat - Export_1. Line 13. Forms are useful for onboarding and",
+            "page_number": 1
+        },
+        {
+            "document": "documents\\The Ultimate PDF Sharing Checklist.pdf",
+            "refined_text": "onboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 14. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 15. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 16. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 17. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 18. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 19. Forms are useful for\nonboarding and compliance tasks.\nThis is sample content for The Ultimate PDF Sharing Checklist. Line 20. Forms are useful for\nonboarding and compliance tasks.",
+            "page_number": 2
+        }
+    ]
+}
