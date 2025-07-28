@@ -1,7 +1,6 @@
 # 🔍 Challenge 1B – Persona-Driven Document Intelligence
 
 > **Adobe India Hackathon 2025 – Round 1B Submission**  
-> **Author**: Aditya Bayya & M. Neha Reddy
 
 ---
 
